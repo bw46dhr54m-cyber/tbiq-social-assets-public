@@ -1,0 +1,422 @@
+{
+ "brand": {
+  "blogId": "7503283",
+  "timezone": "Europe/London"
+ },
+ "rules": {
+  "instagram_time": "10:00",
+  "tiktok_time": "18:00",
+  "autoPublish": true,
+  "one_post_per_day": true,
+  "instagramData": {
+   "type": "POST",
+   "showReelOnFeed": true,
+   "isAiGenerated": false
+  },
+  "tiktokData": {
+   "disableComment": false,
+   "disableDuet": false,
+   "disableStitch": false,
+   "privacyOption": "PUBLIC_TO_EVERYONE",
+   "commercialContentThirdParty": false,
+   "commercialContentOwnBrand": true,
+   "autoAddMusic": true,
+   "photoCoverIndex": 0
+  },
+  "free_plan_monthly_cap": 50,
+  "queue_days_ahead": 14
+ },
+ "cycle_order_note": "Posts repeat in this order; after the last entry start again at the first.",
+ "posts": [
+  {
+   "n": 1,
+   "headline": "Whatever your kit.",
+   "instagram": {
+    "text": "Whatever your kit.\n\nA barbell, two dumbbells, a kettlebell or nothing at all. Pick what you have and the workout is built around it, with 700+ exercises and coaching on every one.\n\nFree, with no time limit. Link in bio.\n\n#TotalBodyIQ #ForEverybody #HomeWorkout #Kettlebell #WorkoutApp",
+    "alt": "Whatever your kit: an iPhone showing the TotalBodyIQ workout chooser, standing on a concrete floor beside a kettlebell.",
+    "media": "https://raw.githubusercontent.com/bw46dhr54m-cyber/tbiq-social-assets-public/d4394f81f134d8c70a803b98f9d86c87fcebfdf3/instagram/campaign-posts/tbiq-P01.png"
+   },
+   "tiktok": {
+    "text": "Whatever your kit. Barbell, dumbbells, kettlebell or nothing at all, the workout is built around what you have. 700+ exercises, free. #TotalBodyIQ #homeworkout #kettlebell #gymtok #workoutapp",
+    "alt": "Whatever your kit: TotalBodyIQ workout chooser on an iPhone beside a kettlebell.",
+    "title": "Whatever your kit",
+    "media": "https://raw.githubusercontent.com/bw46dhr54m-cyber/tbiq-social-assets-public/d4394f81f134d8c70a803b98f9d86c87fcebfdf3/tiktok/tbiq-P01-916.jpg"
+   }
+  },
+  {
+   "n": 2,
+   "headline": "Pick your slot.",
+   "instagram": {
+    "text": "Pick your slot.\n\nSix in the morning, kettle on, forty minutes before the day starts. Choose 20, 30, 40, 50 or 60 minutes and the session is built to fit the time you have.\n\nA full-body session is free, with no time limit. Link in bio.\n\n#TotalBodyIQ #ForEverybody #MorningWorkout #WorkoutApp #StrengthTraining",
+    "alt": "Pick your slot: an iPhone showing the TotalBodyIQ custom workout screen with 20 to 60 minute options, leaning on a mug on a kitchen worktop at dawn.",
+    "media": "https://raw.githubusercontent.com/bw46dhr54m-cyber/tbiq-social-assets-public/d4394f81f134d8c70a803b98f9d86c87fcebfdf3/instagram/campaign-posts/tbiq-P02.png"
+   },
+   "tiktok": {
+    "text": "Pick your slot. Kettle on, forty minutes before the day starts. Choose 20 to 60 minutes and the session is built to fit the time you have. Full-body session free. #TotalBodyIQ #morningworkout #gymtok #workoutapp #strengthtraining",
+    "alt": "Pick your slot: TotalBodyIQ custom workout screen with 20 to 60 minute options, on an iPhone in a kitchen at dawn.",
+    "title": "Pick your slot",
+    "media": "https://raw.githubusercontent.com/bw46dhr54m-cyber/tbiq-social-assets-public/d4394f81f134d8c70a803b98f9d86c87fcebfdf3/tiktok/tbiq-P02-916.jpg"
+   }
+  },
+  {
+   "n": 3,
+   "headline": "Your first session, or your five hundredth.",
+   "instagram": {
+    "text": "Your first session, or your five hundredth.\n\nEvery one of 700+ exercises comes with setup steps, what to do, what to avoid, and a render of the movement. Start with the basics, or go straight to the bar.\n\nFree, with no time limit. Link in bio.\n\n#TotalBodyIQ #ForEverybody #BeginnerGym #StrengthTraining #WorkoutApp",
+    "alt": "Your first session, or your five hundredth: an iPhone showing the TotalBodyIQ bent over row guide, standing on a gym floor beside a 20 kg plate.",
+    "media": "https://raw.githubusercontent.com/bw46dhr54m-cyber/tbiq-social-assets-public/d4394f81f134d8c70a803b98f9d86c87fcebfdf3/instagram/campaign-posts/tbiq-P03.png"
+   },
+   "tiktok": {
+    "text": "Your first session, or your five hundredth. 700+ exercises, each with setup steps, what to do, what to avoid and a render of the movement. Free. #TotalBodyIQ #beginnergym #gymtok #strengthtraining #workoutapp",
+    "alt": "Your first session, or your five hundredth: TotalBodyIQ bent over row guide on an iPhone beside a 20 kg plate.",
+    "title": "Your first session, or your five hundredth",
+    "media": "https://raw.githubusercontent.com/bw46dhr54m-cyber/tbiq-social-assets-public/d4394f81f134d8c70a803b98f9d86c87fcebfdf3/tiktok/tbiq-P03-916.jpg"
+   }
+  },
+  {
+   "n": 4,
+   "headline": "Every rep, coached.",
+   "instagram": {
+    "text": "Every rep, coached.\n\nBarbell bent over row: lats and upper back primary, biceps and lower back secondary. Four setup steps, then what to do and what to avoid, on the screen while you train.\n\n700+ exercises, free. Link in bio.\n\n#TotalBodyIQ #ForEverybody #Coaching #FormCheck #StrengthTraining",
+    "alt": "Every rep, coached: an iPhone showing TotalBodyIQ muscle engagement and coaching cues, standing on a folded towel on a gym bench.",
+    "media": "https://raw.githubusercontent.com/bw46dhr54m-cyber/tbiq-social-assets-public/d4394f81f134d8c70a803b98f9d86c87fcebfdf3/instagram/campaign-posts/tbiq-P04.png"
+   },
+   "tiktok": {
+    "text": "Every rep, coached. Bent over row: lats and upper back primary, biceps and lower back secondary. Setup steps, do and avoid, on screen while you train. 700+ exercises, free. #TotalBodyIQ #formcheck #coaching #gymtok #strengthtraining",
+    "alt": "Every rep, coached: TotalBodyIQ muscle engagement and coaching cues on an iPhone on a gym bench.",
+    "title": "Every rep, coached",
+    "media": "https://raw.githubusercontent.com/bw46dhr54m-cyber/tbiq-social-assets-public/d4394f81f134d8c70a803b98f9d86c87fcebfdf3/tiktok/tbiq-P04-916.jpg"
+   }
+  },
+  {
+   "n": 6,
+   "headline": "No wearable. No trial clock.",
+   "instagram": {
+    "text": "No wearable. No trial clock.\n\nReadiness and balance come from the sets you log, so they work for everyone from day one, with nothing on your wrist. And nothing in the free app expires.\n\nFree, with no time limit. Link in bio.\n\n#TotalBodyIQ #ForEverybody #Readiness #WorkoutApp #StrengthTraining",
+    "alt": "No wearable, no trial clock: an iPhone showing the TotalBodyIQ home screen with readiness 73, face up on dark slate under a bar of blue light.",
+    "media": "https://raw.githubusercontent.com/bw46dhr54m-cyber/tbiq-social-assets-public/d4394f81f134d8c70a803b98f9d86c87fcebfdf3/instagram/campaign-posts/tbiq-P06.png"
+   },
+   "tiktok": {
+    "text": "No wearable. No trial clock. Readiness and balance come from the sets you log, from day one, with nothing on your wrist. Nothing in the free app expires. #TotalBodyIQ #readiness #gymtok #workoutapp #strengthtraining",
+    "alt": "No wearable, no trial clock: TotalBodyIQ home screen with readiness 73 on an iPhone on dark slate.",
+    "title": "No wearable. No trial clock.",
+    "media": "https://raw.githubusercontent.com/bw46dhr54m-cyber/tbiq-social-assets-public/d4394f81f134d8c70a803b98f9d86c87fcebfdf3/tiktok/tbiq-P06-916.jpg"
+   }
+  },
+  {
+   "n": 5,
+   "headline": "Press, rack, log. Then think about nothing.",
+   "instagram": {
+    "text": "Press, rack, log. Then think about nothing.\n\nYou lift. The app maps every muscle you hit, scores your balance, reads your readiness and shapes the next session from your own numbers.\n\nFree, with no time limit. Link in bio.\n\n#TotalBodyIQ #NoWeakSpots #StrengthTraining #WorkoutApp #GymLog",
+    "alt": "Train. Log. Let it think: the TotalBodyIQ figure pressing dumbbells on a bench in a gym.",
+    "media": "https://raw.githubusercontent.com/bw46dhr54m-cyber/tbiq-social-assets-public/d4394f81f134d8c70a803b98f9d86c87fcebfdf3/instagram/campaign-posts/tbiq-P05.png"
+   },
+   "tiktok": {
+    "text": "Press, rack, log. Then think about nothing. The app maps every muscle you hit, scores your balance and shapes the next session from your own numbers. Free. #TotalBodyIQ #gymtok #strengthtraining #workoutapp #noweakspots",
+    "alt": "Train. Log. Let it think: the TotalBodyIQ figure pressing dumbbells in a gym.",
+    "title": "Train. Log. Let it think.",
+    "media": "https://raw.githubusercontent.com/bw46dhr54m-cyber/tbiq-social-assets-public/d4394f81f134d8c70a803b98f9d86c87fcebfdf3/tiktok/tbiq-P05-916.jpg"
+   }
+  },
+  {
+   "n": 7,
+   "headline": "Sunday run, Monday squats. Same app, same history.",
+   "instagram": {
+    "text": "Sunday run, Monday squats. Same app, same history.\n\nLogging, 700+ exercises with coaching, body map, balance, readiness, GPS runs, walks and rides with heart-rate zones, Apple Health. All free, with no time limit. Pro is optional.\n\nLink in bio.\n\n#TotalBodyIQ #FreeApp #Running #StrengthTraining #WorkoutApp",
+    "alt": "Free, with no time limit: an iPhone in a stand showing a TotalBodyIQ run with time, distance, pace and heart rate.",
+    "media": "https://raw.githubusercontent.com/bw46dhr54m-cyber/tbiq-social-assets-public/d4394f81f134d8c70a803b98f9d86c87fcebfdf3/instagram/campaign-posts/tbiq-P07.png"
+   },
+   "tiktok": {
+    "text": "Sunday run, Monday squats, same app, same history. Logging, 700+ exercises, body map, balance, readiness, GPS cardio with heart-rate zones. Free, no time limit. #TotalBodyIQ #freeapp #running #gymtok #workoutapp",
+    "alt": "Free, with no time limit: a TotalBodyIQ run screen on an iPhone in a stand.",
+    "title": "Free, with no time limit",
+    "media": "https://raw.githubusercontent.com/bw46dhr54m-cyber/tbiq-social-assets-public/d4394f81f134d8c70a803b98f9d86c87fcebfdf3/tiktok/tbiq-P07-916.jpg"
+   }
+  },
+  {
+   "n": 8,
+   "headline": "Leg day was Tuesday. Here is what it did.",
+   "instagram": {
+    "text": "Leg day was Tuesday. Here is what it did.\n\nEvery set you log lights the muscle it worked, with sets and tonnage. Tap one for the detail. No wearable, nothing to sync.\n\nFree, with no time limit. Link in bio.\n\n#TotalBodyIQ #BodyMap #NoWeakSpots #StrengthTraining #WorkoutApp",
+    "alt": "See what you trained: an iPhone on a black stone slab showing the TotalBodyIQ body map with sets and tonnage per muscle.",
+    "media": "https://raw.githubusercontent.com/bw46dhr54m-cyber/tbiq-social-assets-public/d4394f81f134d8c70a803b98f9d86c87fcebfdf3/instagram/campaign-posts/tbiq-P08.png"
+   },
+   "tiktok": {
+    "text": "Leg day was Tuesday. Here is what it did. Every set you log lights the muscle it worked, with sets and tonnage. No wearable. Free. #TotalBodyIQ #bodymap #gymtok #strengthtraining #workoutapp",
+    "alt": "See what you trained: the TotalBodyIQ body map on an iPhone on a black slab.",
+    "title": "See what you trained",
+    "media": "https://raw.githubusercontent.com/bw46dhr54m-cyber/tbiq-social-assets-public/d4394f81f134d8c70a803b98f9d86c87fcebfdf3/tiktok/tbiq-P08-916.jpg"
+   }
+  },
+  {
+   "n": 9,
+   "headline": "Shoulders 20 sets. Chest 11. Calves 7. You stopped counting; the map did not.",
+   "instagram": {
+    "text": "Shoulders 20 sets. Chest 11. Calves 7. You stopped counting; the map did not.\n\nTap any muscle for its sets, reps and tonnage over the last seven days.\n\nFree, with no time limit. Link in bio.\n\n#TotalBodyIQ #BodyMap #NoWeakSpots #GymLog #WorkoutApp",
+    "alt": "Every set, mapped: the TotalBodyIQ body map on an iPhone beside the rendered figure, with sets and tonnage for shoulders, chest, biceps, abs, obliques, forearms, quads and calves.",
+    "media": "https://raw.githubusercontent.com/bw46dhr54m-cyber/tbiq-social-assets-public/d4394f81f134d8c70a803b98f9d86c87fcebfdf3/instagram/campaign-posts/tbiq-P09.png"
+   },
+   "tiktok": {
+    "text": "Shoulders 20 sets. Chest 11. Calves 7. You stopped counting, the map did not. Tap any muscle for sets, reps and tonnage. Free. #TotalBodyIQ #bodymap #gymtok #gymlog #workoutapp",
+    "alt": "Every set, mapped: the TotalBodyIQ body map beside the rendered figure.",
+    "title": "Every set, mapped",
+    "media": "https://raw.githubusercontent.com/bw46dhr54m-cyber/tbiq-social-assets-public/d4394f81f134d8c70a803b98f9d86c87fcebfdf3/tiktok/tbiq-P09-916.jpg"
+   }
+  },
+  {
+   "n": 10,
+   "headline": "Everyone has a leg day they keep moving.",
+   "instagram": {
+    "text": "Everyone has a leg day they keep moving.\n\nBalance scores push, pull, hinge, legs and core against target from the sets you log. Core 60%, legs 20%. The number says it before the mirror does.\n\nFree, with no time limit. Link in bio.\n\n#TotalBodyIQ #LegDay #NoWeakSpots #StrengthTraining #WorkoutApp",
+    "alt": "Legs at 20%: an iPhone on a dumbbell rack showing the TotalBodyIQ balance radar with core 60% and legs 20%.",
+    "media": "https://raw.githubusercontent.com/bw46dhr54m-cyber/tbiq-social-assets-public/d4394f81f134d8c70a803b98f9d86c87fcebfdf3/instagram/campaign-posts/tbiq-P10.png"
+   },
+   "tiktok": {
+    "text": "Everyone has a leg day they keep moving. Balance scores push, pull, hinge, legs and core from the sets you log. Core 60%, legs 20%. Free. #TotalBodyIQ #legday #gymtok #strengthtraining #workoutapp",
+    "alt": "Legs at 20%: the TotalBodyIQ balance radar on an iPhone on a dumbbell rack.",
+    "title": "Legs at 20%",
+    "media": "https://raw.githubusercontent.com/bw46dhr54m-cyber/tbiq-social-assets-public/d4394f81f134d8c70a803b98f9d86c87fcebfdf3/tiktok/tbiq-P10-916.jpg"
+   }
+  },
+  {
+   "n": 11,
+   "headline": "Third session this week. Push, or hold back?",
+   "instagram": {
+    "text": "Third session this week. Push, or hold back?\n\nReadiness scores this week's load against your usual, from your own logged sets. 73: train. Low: ease off and come back stronger. No wearable needed.\n\nFree, with no time limit. Link in bio.\n\n#TotalBodyIQ #Readiness #Recovery #StrengthTraining #WorkoutApp",
+    "alt": "Readiness 73, train: an iPhone face up on a bedside table at dawn showing the TotalBodyIQ home screen with readiness 73.",
+    "media": "https://raw.githubusercontent.com/bw46dhr54m-cyber/tbiq-social-assets-public/d4394f81f134d8c70a803b98f9d86c87fcebfdf3/instagram/campaign-posts/tbiq-P11.png"
+   },
+   "tiktok": {
+    "text": "Third session this week. Push, or hold back? Readiness scores this week's load against your usual, from your own logged sets. 73: train. No wearable. Free. #TotalBodyIQ #readiness #recovery #gymtok #workoutapp",
+    "alt": "Readiness 73, train: the TotalBodyIQ home screen on an iPhone on a bedside table at dawn.",
+    "title": "Readiness 73. Train.",
+    "media": "https://raw.githubusercontent.com/bw46dhr54m-cyber/tbiq-social-assets-public/d4394f81f134d8c70a803b98f9d86c87fcebfdf3/tiktok/tbiq-P11-916.jpg"
+   }
+  },
+  {
+   "n": 12,
+   "headline": "40 kg × 8. Save set. Done.",
+   "instagram": {
+    "text": "40 kg × 8. Save set. Done.\n\nOne tap and the body map, your balance and your readiness all move. The next session is shaped by what you just did.\n\nFree, with no time limit. Link in bio.\n\n#TotalBodyIQ #GymLog #NoWeakSpots #StrengthTraining #WorkoutApp",
+    "alt": "Log it, it updates: an iPhone on a gym floor in front of a loaded barbell, showing a TotalBodyIQ set of 40 kg by 8 being saved.",
+    "media": "https://raw.githubusercontent.com/bw46dhr54m-cyber/tbiq-social-assets-public/d4394f81f134d8c70a803b98f9d86c87fcebfdf3/instagram/campaign-posts/tbiq-P12.png"
+   },
+   "tiktok": {
+    "text": "40 kg x 8. Save set. Done. One tap and the body map, your balance and your readiness all move. The next session is shaped by what you just did. Free. #TotalBodyIQ #gymlog #gymtok #strengthtraining #workoutapp",
+    "alt": "Log it, it updates: a TotalBodyIQ set of 40 kg by 8 on an iPhone in front of a loaded barbell.",
+    "title": "Log it. It updates.",
+    "media": "https://raw.githubusercontent.com/bw46dhr54m-cyber/tbiq-social-assets-public/d4394f81f134d8c70a803b98f9d86c87fcebfdf3/tiktok/tbiq-P12-916.jpg"
+   }
+  },
+  {
+   "n": 13,
+   "headline": "The set you nearly skipped.",
+   "instagram": {
+    "text": "The set you nearly skipped.\n\nYou did it anyway. Log it in one tap and it counts: on the body map, in your balance, in your readiness, and in the session that comes next.\n\nFree, with no time limit. Link in bio.\n\n#TotalBodyIQ #BenchPress #NoWeakSpots #StrengthTraining #WorkoutApp",
+    "alt": "The set you nearly skipped: the TotalBodyIQ figure pressing a barbell on a bench, chest highlighted, in a dark gym.",
+    "media": "https://raw.githubusercontent.com/bw46dhr54m-cyber/tbiq-social-assets-public/d4394f81f134d8c70a803b98f9d86c87fcebfdf3/instagram/campaign-posts/tbiq-P13.png"
+   },
+   "tiktok": {
+    "text": "The set you nearly skipped. You did it anyway. Log it in one tap and it counts: on the body map, in your balance, in your readiness, in the next session. Free. #TotalBodyIQ #benchpress #gymtok #strengthtraining #workoutapp",
+    "alt": "The set you nearly skipped: the TotalBodyIQ figure pressing a barbell on a bench.",
+    "title": "The set you nearly skipped",
+    "media": "https://raw.githubusercontent.com/bw46dhr54m-cyber/tbiq-social-assets-public/d4394f81f134d8c70a803b98f9d86c87fcebfdf3/tiktok/tbiq-P13-916.jpg"
+   }
+  },
+  {
+   "n": 14,
+   "headline": "You lose count. It doesn't.",
+   "instagram": {
+    "text": "You lose count. It doesn't.\n\nSet four, rest, set five, was that five? Log each set and the body map keeps the tally: sets, reps and tonnage, per muscle, for the last seven days.\n\nFree, with no time limit. Link in bio.\n\n#TotalBodyIQ #GymLog #NoWeakSpots #StrengthTraining #WorkoutApp",
+    "alt": "You lose count, it doesn't: an iPhone showing the TotalBodyIQ body map, lying on dark slate beside a pair of dumbbells.",
+    "media": "https://raw.githubusercontent.com/bw46dhr54m-cyber/tbiq-social-assets-public/d4394f81f134d8c70a803b98f9d86c87fcebfdf3/instagram/campaign-posts/tbiq-P14.png"
+   },
+   "tiktok": {
+    "text": "You lose count. It doesn't. Set four, rest, set five, was that five? Log each set and the body map keeps the tally: sets, reps and tonnage, per muscle. Free. #TotalBodyIQ #gymlog #gymtok #strengthtraining #workoutapp",
+    "alt": "You lose count, it doesn't: the TotalBodyIQ body map on an iPhone beside a pair of dumbbells.",
+    "title": "You lose count. It doesn't.",
+    "media": "https://raw.githubusercontent.com/bw46dhr54m-cyber/tbiq-social-assets-public/d4394f81f134d8c70a803b98f9d86c87fcebfdf3/tiktok/tbiq-P14-916.jpg"
+   }
+  },
+  {
+   "n": 15,
+   "headline": "Hotel gym. One kettlebell. Twenty minutes before the first meeting.",
+   "instagram": {
+    "text": "Hotel gym. One kettlebell. Twenty minutes before the first meeting.\n\nFilter the library by muscle and kit: legs, kettlebell, 21 exercises, each with setup, cues and common mistakes. Log the sets and the week still adds up.\n\nFree, with no time limit. Link in bio.\n\n#TotalBodyIQ #BusyLife #HotelWorkout #Kettlebell #WorkoutApp",
+    "alt": "Hotel gym, one kettlebell: an iPhone on a car seat beside a gym bag, showing the TotalBodyIQ exercise filters set to legs and kettlebell, 21 exercises.",
+    "media": "https://raw.githubusercontent.com/bw46dhr54m-cyber/tbiq-social-assets-public/d4394f81f134d8c70a803b98f9d86c87fcebfdf3/instagram/campaign-posts/tbiq-P15.png"
+   },
+   "tiktok": {
+    "text": "Hotel gym. One kettlebell. Twenty minutes before the first meeting. Filter by muscle and kit: legs, kettlebell, 21 exercises, all coached. Free. #TotalBodyIQ #hotelworkout #kettlebell #gymtok #workoutapp",
+    "alt": "Hotel gym, one kettlebell: TotalBodyIQ exercise filters set to legs and kettlebell on an iPhone on a car seat.",
+    "title": "Hotel gym. One kettlebell.",
+    "media": "https://raw.githubusercontent.com/bw46dhr54m-cyber/tbiq-social-assets-public/d4394f81f134d8c70a803b98f9d86c87fcebfdf3/tiktok/tbiq-P15-916.jpg"
+   }
+  },
+  {
+   "n": 16,
+   "headline": "No gym today. Rain, dark by five, nowhere to be.",
+   "instagram": {
+    "text": "No gym today. Rain, dark by five, nowhere to be.\n\nGo outside. GPS runs, walks and rides with route, pace and distance, live heart rate from a compatible monitor, five zones. Same app as your sets, one history.\n\nFree, with no time limit. Link in bio.\n\n#TotalBodyIQ #BusyLife #Running #EveningRun #WorkoutApp",
+    "alt": "No gym today: an iPhone on a wet pavement at dusk showing a TotalBodyIQ GPS run with the route, time, pace and distance.",
+    "media": "https://raw.githubusercontent.com/bw46dhr54m-cyber/tbiq-social-assets-public/d4394f81f134d8c70a803b98f9d86c87fcebfdf3/instagram/campaign-posts/tbiq-P16.png"
+   },
+   "tiktok": {
+    "text": "No gym today. Rain, dark by five. Go outside: GPS runs, walks and rides with route, pace and distance, in the same app as your sets. Free. #TotalBodyIQ #running #eveningrun #gymtok #workoutapp",
+    "alt": "No gym today: a TotalBodyIQ GPS run on an iPhone lying on a wet pavement at dusk.",
+    "title": "No gym today",
+    "media": "https://raw.githubusercontent.com/bw46dhr54m-cyber/tbiq-social-assets-public/d4394f81f134d8c70a803b98f9d86c87fcebfdf3/tiktok/tbiq-P16-916.jpg"
+   }
+  },
+  {
+   "n": 17,
+   "headline": "Kids in bed. Floor's yours.",
+   "instagram": {
+    "text": "Kids in bed. Floor's yours.\n\nMat out, one dumbbell, lights down. Pick twenty minutes and bodyweight or dumbbells, and the session is built for the room you are standing in. Log it and the week still adds up.\n\nFree, with no time limit. Link in bio.\n\n#TotalBodyIQ #BusyLife #HomeWorkout #ParentLife #WorkoutApp",
+    "alt": "Kids in bed, floor's yours: an iPhone showing the TotalBodyIQ workout chooser, propped against a sofa in a dark living room with a mat and a dumbbell on the floor.",
+    "media": "https://raw.githubusercontent.com/bw46dhr54m-cyber/tbiq-social-assets-public/d4394f81f134d8c70a803b98f9d86c87fcebfdf3/instagram/campaign-posts/tbiq-P17.png"
+   },
+   "tiktok": {
+    "text": "Kids in bed. Floor's yours. Mat out, one dumbbell, lights down. Twenty minutes, built for the room you are standing in. Free. #TotalBodyIQ #homeworkout #parentlife #gymtok #workoutapp",
+    "alt": "Kids in bed, floor's yours: TotalBodyIQ workout chooser on an iPhone against a sofa, mat and dumbbell on the floor.",
+    "title": "Kids in bed. Floor's yours.",
+    "media": "https://raw.githubusercontent.com/bw46dhr54m-cyber/tbiq-social-assets-public/d4394f81f134d8c70a803b98f9d86c87fcebfdf3/tiktok/tbiq-P17-916.jpg"
+   }
+  },
+  {
+   "n": 18,
+   "headline": "Up before the house is.",
+   "instagram": {
+    "text": "Up before the house is.\n\n6 km, 34 minutes, home before anyone notices. GPS route, pace, heart rate and elevation, logged in the same app as your sets, so the week adds up in one place.\n\nFree, with no time limit. Link in bio.\n\n#TotalBodyIQ #BusyLife #MorningRun #Running #WorkoutApp",
+    "alt": "Up before the house is: an iPhone on a stone wall on a hilltop at dawn, showing a TotalBodyIQ run of 6.03 km in 34:11 with pace, heart rate and elevation.",
+    "media": "https://raw.githubusercontent.com/bw46dhr54m-cyber/tbiq-social-assets-public/d4394f81f134d8c70a803b98f9d86c87fcebfdf3/instagram/campaign-posts/tbiq-P18.png"
+   },
+   "tiktok": {
+    "text": "Up before the house is. 6 km, 34 minutes, home before anyone notices. GPS route, pace and heart rate, logged next to your sets. Free. #TotalBodyIQ #morningrun #running #gymtok #workoutapp",
+    "alt": "Up before the house is: a TotalBodyIQ run of 6.03 km in 34:11 on an iPhone on a hilltop wall at dawn.",
+    "title": "Up before the house is",
+    "media": "https://raw.githubusercontent.com/bw46dhr54m-cyber/tbiq-social-assets-public/d4394f81f134d8c70a803b98f9d86c87fcebfdf3/tiktok/tbiq-P18-916.jpg"
+   }
+  },
+  {
+   "n": 19,
+   "headline": "Your PA for the gym.",
+   "instagram": {
+    "text": "Your PA for the gym.\n\nLaptop shut, head full. You should not have to plan a workout as well. Pick your focus, your kit and the time you have, and it tells you what to do. Log the sets and the next one is built from them.\n\nA full-body session is free, with no time limit. Link in bio.\n\n#TotalBodyIQ #BusyLife #WorkoutGenerator #GymPlan #WorkoutApp",
+    "alt": "Your PA for the gym: an iPhone in front of a closed laptop on a desk at night, showing the TotalBodyIQ workout generator with focus, equipment and a 40 minute session length.",
+    "media": "https://raw.githubusercontent.com/bw46dhr54m-cyber/tbiq-social-assets-public/d4394f81f134d8c70a803b98f9d86c87fcebfdf3/instagram/campaign-posts/tbiq-P19.png"
+   },
+   "tiktok": {
+    "text": "Your PA for the gym. Laptop shut, head full. Pick your focus, your kit and your time, and it tells you what to do. Full-body session free. #TotalBodyIQ #workoutgenerator #gymplan #gymtok #workoutapp",
+    "alt": "Your PA for the gym: the TotalBodyIQ workout generator on an iPhone in front of a closed laptop at night.",
+    "title": "Your PA for the gym",
+    "media": "https://raw.githubusercontent.com/bw46dhr54m-cyber/tbiq-social-assets-public/d4394f81f134d8c70a803b98f9d86c87fcebfdf3/tiktok/tbiq-P19-916.jpg"
+   }
+  },
+  {
+   "n": 20,
+   "headline": "Missed a week? It shows you where.",
+   "instagram": {
+    "text": "Missed a week? It shows you where.\n\nNo guilt, no guessing. The body map lights every muscle you trained in the last seven days, with sets and tonnage, and leaves the ones you didn't in grey. Then Balanced mode builds the next session around the gaps.\n\nFree, with no time limit. Link in bio.\n\n#TotalBodyIQ #BusyLife #BodyMap #BackToTheGym #WorkoutApp",
+    "alt": "Missed a week? It shows you where: the TotalBodyIQ app icon above the Body Metrics screen, a body map with sets and tonnage per muscle for the last 7 days.",
+    "media": "https://raw.githubusercontent.com/bw46dhr54m-cyber/tbiq-social-assets-public/d4394f81f134d8c70a803b98f9d86c87fcebfdf3/instagram/campaign-posts/tbiq-P20.png"
+   },
+   "tiktok": {
+    "text": "Missed a week? It shows you where. The body map lights every muscle you trained, sets and tonnage, and leaves the ones you didn't in grey. Balanced mode builds the next session around the gaps. Free. #TotalBodyIQ #bodymap #backtothegym #gymtok #workoutapp",
+    "alt": "Missed a week? It shows you where: the TotalBodyIQ Body Metrics screen with the body map and sets per muscle.",
+    "title": "Missed a week? It shows you where.",
+    "media": "https://raw.githubusercontent.com/bw46dhr54m-cyber/tbiq-social-assets-public/d4394f81f134d8c70a803b98f9d86c87fcebfdf3/tiktok/tbiq-P20-916.jpg"
+   }
+  },
+  {
+   "n": 21,
+   "headline": "Unfold it.",
+   "instagram": {
+    "text": "Unfold it.\n\nOn iPhone Duo today's session sits on one side and your dashboard on the other: readiness, the week, balance and cardio, without leaving the screen. Fold it and it is still a one-handed phone app.\n\nThe Duo layout is free. Works on every iPhone, iPad and Apple Watch. Link in bio.\n\n#TotalBodyIQ #iPhoneDuo #EveryDevice #StrengthTraining #WorkoutApp",
+    "alt": "Unfold it: the TotalBodyIQ app icon above an unfolded two-pane layout, today's session and readiness on the left and the dashboard with balance on the right.",
+    "media": "https://raw.githubusercontent.com/bw46dhr54m-cyber/tbiq-social-assets-public/d4394f81f134d8c70a803b98f9d86c87fcebfdf3/instagram/campaign-posts/tbiq-P21.png"
+   },
+   "tiktok": {
+    "text": "Unfold it. On iPhone Duo today's session sits on one side and your dashboard on the other. Fold it and it is still a one-handed app. Duo layout free, works on every iPhone. #TotalBodyIQ #iphoneduo #gymtok #strengthtraining #workoutapp",
+    "alt": "Unfold it: TotalBodyIQ on iPhone Duo, today's session on one pane and the dashboard on the other.",
+    "title": "Unfold it",
+    "media": "https://raw.githubusercontent.com/bw46dhr54m-cyber/tbiq-social-assets-public/d4394f81f134d8c70a803b98f9d86c87fcebfdf3/tiktok/tbiq-P21-916.jpg"
+   }
+  },
+  {
+   "n": 22,
+   "headline": "Phone stays in the bag.",
+   "instagram": {
+    "text": "Phone stays in the bag.\n\nBarbell back squat, set 2 of 3. Adjust the weight, adjust the reps, log it from your wrist, and the rep PR shows up right there. Everything lands in the same history as your phone.\n\nApple Watch, iPhone and iPad, one app. Free, with no time limit. Link in bio.\n\n#TotalBodyIQ #AppleWatch #EveryDevice #StrengthTraining #WorkoutApp",
+    "alt": "Phone stays in the bag: an Apple Watch on a wrist showing TotalBodyIQ set logging, barbell back squat, 40 kg, 5 reps, with a Log 40 kg by 5 button.",
+    "media": "https://raw.githubusercontent.com/bw46dhr54m-cyber/tbiq-social-assets-public/d4394f81f134d8c70a803b98f9d86c87fcebfdf3/instagram/campaign-posts/tbiq-P22.png"
+   },
+   "tiktok": {
+    "text": "Phone stays in the bag. Back squat, set 2 of 3. Adjust weight and reps, log it from your wrist, rep PR flagged right there. Same history as your phone. Free. #TotalBodyIQ #applewatch #gymtok #strengthtraining #workoutapp",
+    "alt": "Phone stays in the bag: TotalBodyIQ set logging on an Apple Watch, 40 kg by 5.",
+    "title": "Phone stays in the bag",
+    "media": "https://raw.githubusercontent.com/bw46dhr54m-cyber/tbiq-social-assets-public/d4394f81f134d8c70a803b98f9d86c87fcebfdf3/tiktok/tbiq-P22-916.jpg"
+   }
+  },
+  {
+   "n": 23,
+   "headline": "Rest 2:28. Then go again.",
+   "instagram": {
+    "text": "Rest 2:28. Then go again.\n\nBetween sets the Watch does the counting: rest timer, heart rate coming back down, rep PR flagged, and the next set logged with one tap. Add fifteen seconds or skip if you are ready.\n\nApple Watch, iPhone and iPad, one history. Free, with no time limit. Link in bio.\n\n#TotalBodyIQ #AppleWatch #RestTimer #StrengthTraining #WorkoutApp",
+    "alt": "Rest 2:28, then go again: an Apple Watch on a wrist showing the TotalBodyIQ rest timer at 2:28, 97 bpm, a rep PR flag and a Log 40 kg by 5 button.",
+    "media": "https://raw.githubusercontent.com/bw46dhr54m-cyber/tbiq-social-assets-public/d4394f81f134d8c70a803b98f9d86c87fcebfdf3/instagram/campaign-posts/tbiq-P23.png"
+   },
+   "tiktok": {
+    "text": "Rest 2:28. Then go again. The Watch does the counting between sets: rest timer, heart rate, rep PR flagged, next set logged in one tap. Free. #TotalBodyIQ #applewatch #resttimer #gymtok #workoutapp",
+    "alt": "Rest 2:28, then go again: the TotalBodyIQ rest timer on an Apple Watch with heart rate and a log set button.",
+    "title": "Rest 2:28. Then go again.",
+    "media": "https://raw.githubusercontent.com/bw46dhr54m-cyber/tbiq-social-assets-public/d4394f81f134d8c70a803b98f9d86c87fcebfdf3/tiktok/tbiq-P23-916.jpg"
+   }
+  },
+  {
+   "n": 24,
+   "headline": "Easy day. Zone 1.",
+   "instagram": {
+    "text": "Easy day. Zone 1.\n\nNot every session is a hard one. Pick a target zone on your wrist, recovery to max, and keep the heart rate where it should be. The run lands in the same history as your sets.\n\nApple Watch, iPhone and iPad, one app. Free, with no time limit. Link in bio.\n\n#TotalBodyIQ #AppleWatch #HeartRateZones #Zone2 #WorkoutApp",
+    "alt": "Easy day, zone 1: an Apple Watch on a wrist showing TotalBodyIQ cardio target zones, Z1 Recovery 88 to 105 selected, with zones 2 to 5 listed below.",
+    "media": "https://raw.githubusercontent.com/bw46dhr54m-cyber/tbiq-social-assets-public/d4394f81f134d8c70a803b98f9d86c87fcebfdf3/instagram/campaign-posts/tbiq-P24.png"
+   },
+   "tiktok": {
+    "text": "Easy day. Zone 1. Not every session is a hard one. Pick a target zone on your wrist, recovery to max, and keep the heart rate where it should be. Free. #TotalBodyIQ #applewatch #heartratezones #zone2 #workoutapp",
+    "alt": "Easy day, zone 1: TotalBodyIQ cardio target zones on an Apple Watch, Z1 Recovery selected.",
+    "title": "Easy day. Zone 1.",
+    "media": "https://raw.githubusercontent.com/bw46dhr54m-cyber/tbiq-social-assets-public/d4394f81f134d8c70a803b98f9d86c87fcebfdf3/tiktok/tbiq-P24-916.jpg"
+   }
+  },
+  {
+   "n": 25,
+   "headline": "The whole picture. On iPad.",
+   "instagram": {
+    "text": "The whole picture. On iPad.\n\nToday's session, readiness, the week, balance and cardio, all on one screen. Plan on the iPad at the kitchen table, train with the phone or the Watch, and it is one history.\n\niPhone, iPad and Apple Watch. Free, with no time limit. Link in bio.\n\n#TotalBodyIQ #iPad #EveryDevice #StrengthTraining #WorkoutApp",
+    "alt": "The whole picture on iPad: the TotalBodyIQ dashboard on iPad with today's session, readiness 55, the week, the workout generator, the balance radar and cardio totals side by side.",
+    "media": "https://raw.githubusercontent.com/bw46dhr54m-cyber/tbiq-social-assets-public/d4394f81f134d8c70a803b98f9d86c87fcebfdf3/instagram/campaign-posts/tbiq-P25.png"
+   },
+   "tiktok": {
+    "text": "The whole picture. On iPad. Today's session, readiness, the week, balance and cardio on one screen. Plan on the iPad, train with the phone or the Watch, one history. Free. #TotalBodyIQ #ipad #gymtok #strengthtraining #workoutapp",
+    "alt": "The whole picture on iPad: the TotalBodyIQ dashboard with today, the week, balance and cardio side by side.",
+    "title": "The whole picture. On iPad.",
+    "media": "https://raw.githubusercontent.com/bw46dhr54m-cyber/tbiq-social-assets-public/d4394f81f134d8c70a803b98f9d86c87fcebfdf3/tiktok/tbiq-P25-916.jpg"
+   }
+  },
+  {
+   "n": 26,
+   "headline": "The app that evolves with its users.",
+   "instagram": {
+    "text": "The app that evolves with its users.\n\niPhone, iPad and Apple Watch, one app, one history. It keeps getting better, and what gets built next is shaped by what you tell us.\n\nFree, with no time limit. Link in bio.\n\n#TotalBodyIQ #AppleWatch #iPad #StrengthTraining #WorkoutApp",
+    "alt": "The app that evolves with its users: an Apple Watch showing a rest timer, an iPhone showing the TotalBodyIQ body map and an iPad showing the dashboard, laid flat on dark slate.",
+    "media": "https://raw.githubusercontent.com/bw46dhr54m-cyber/tbiq-social-assets-public/07bd81f53affe0fc9ad96a5820e47d6372bea32b/instagram/campaign-posts/tbiq-P26.png"
+   },
+   "tiktok": {
+    "text": "The app that evolves with its users. iPhone, iPad and Apple Watch, one app, one history. It keeps getting better, shaped by what you tell us. Free. #TotalBodyIQ #applewatch #ipad #gymtok #workoutapp",
+    "alt": "The app that evolves with its users: Apple Watch, iPhone and iPad showing TotalBodyIQ, laid flat on dark slate.",
+    "title": "The app that evolves with its users.",
+    "media": "https://raw.githubusercontent.com/bw46dhr54m-cyber/tbiq-social-assets-public/07bd81f53affe0fc9ad96a5820e47d6372bea32b/tiktok/tbiq-P26-916.jpg"
+   }
+  }
+ ]
+}
